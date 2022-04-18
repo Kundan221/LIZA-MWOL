@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Chunkindepadayali/LIZA-MWOL/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
+  <img src="https://raw.githubusercontent.com/Chunkindepadayali/LIZA-MWOL/master/20220418-WA0451.jpg" alt="UNNI EFX" />
 </h1>
   
 ## Setup
